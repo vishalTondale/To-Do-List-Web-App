@@ -1,0 +1,55 @@
+<!-- Document type declaration -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> <!-- Specifies the character encoding for the document -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Sets the viewport width to the device width and initial zoom level to 1.0 -->
+    <title>To-Do List</title> <!-- Sets the title of the document -->
+    <link rel="stylesheet" href="styles.css"> <!-- Links to an external stylesheet -->
+</head>
+<body>
+    <h1 class="project-name">To-Do List Web Application</h1> <!-- Heading with class project-name -->
+    <div class="body"> <!-- Division with class body -->
+        <div class="container"> <!-- Division with class container -->
+            <h2>Create To-Do List</h2> <!-- Heading 2 -->
+            
+            <div> <!-- Division -->
+                <label for="taskInput">Task:</label> <!-- Label for task input -->
+                <input type="text" id="taskInput"> <!-- Text input for task -->
+            </div>
+            <div> <!-- Division -->
+                <label for="prioritySelect">Priority:</label> <!-- Label for priority select -->
+                <select id="prioritySelect"> <!-- Dropdown select for priority -->
+                    <option value="high">High</option> <!-- Option for high priority -->
+                    <option value="medium">Medium</option> <!-- Option for medium priority -->
+                    <option value="low">Low</option> <!-- Option for low priority -->
+                </select>
+            </div>
+            <div> <!-- Division -->
+                <label for="dateTimeInput">Deadline:</label> <!-- Label for deadline input -->
+                <input type="datetime-local" id="dateTimeInput"> <!-- Date and time input for deadline -->
+            </div>
+            <button id="addTaskButton">Add Task</button><br><br> <!-- Button to add task -->
+        </div>
+    
+        <div class="container"> <!-- Division with class container -->
+            <h2>Tasks : </h2> <!-- Heading 2 -->
+            <div class="sorting-controls"> <!-- Division with class sorting-controls -->
+                <label for="sortCriteria">Sort By:</label> <!-- Label for sort criteria select -->
+                <select id="sortCriteria"> <!-- Dropdown select for sort criteria -->
+                    <option value="priority">Priority</option> <!-- Option for sorting by priority -->
+                    <option value="deadline">Deadline</option> <!-- Option for sorting by deadline -->
+                    <option value="status">Status</option> <!-- Option for sorting by status -->
+                </select>
+                <button id="sortButton">Sort</button> <!-- Button to trigger sorting -->
+            </div>
+            <div id="tasksContainer"> <!-- Division with id tasksContainer -->
+                <div id="PriorityTasks" class="task-list"></div> <!-- Division for displaying tasks -->
+            </div>
+        </div>
+
+    </div>
+    
+    <script src="script.js"></script> <!-- Link to an external JavaScript file -->
+</body>
+</html>

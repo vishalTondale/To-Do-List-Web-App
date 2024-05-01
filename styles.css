@@ -1,0 +1,185 @@
+/* Global styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Project name styles */
+.project-name {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 600px) {
+    .project-name {
+        font-size: 2.5rem;
+        letter-spacing: 2px;
+    }
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+select,
+input[type="datetime-local"],
+button {
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.task-list {
+    margin-top: 20px;
+}
+
+.task-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+    background-color: #f0f0f0;
+    position: relative;
+}
+
+.task-item:hover {
+    background-color: #d5d2d2;
+}
+
+.task-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.task-info {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 3px;
+}
+
+.task-priority h2 {
+    margin: 0;
+    padding: 10px 0;
+    font-size: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px 5px 0 0;
+    text-align: center;
+}
+
+.task-completed {
+    text-decoration: line-through;
+}
+
+.task-status {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+/* Button styles */
+button {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#sortButton {
+    background-color: #5c5a5c;
+    color: white;
+    font-weight: 200;
+}
+
+#sortButton:hover {
+    background-color: #040404;
+}
+
+#addTaskButton {
+    background-color: #0a61e4;
+}
+
+#addTaskButton:hover {
+    background-color: #104cc5;
+}
+
+.edit-button {
+    background-color: #808080;
+}
+
+.edit-button:hover {
+    background-color: #696969;
+}
+
+.delete-button {
+    background-color: #ff3333;
+}
+
+.delete-button:hover {
+    background-color: #cc0000;
+}
+
+/* Dropdown styles */
+select {
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 100%;
+    cursor: pointer;
+}
+
+/* Priority label styles */
+h2 {
+    text-align: center;
+    font-size: xx-large;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sort-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.sort-container select {
+    width: 200px;
+}
