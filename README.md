@@ -81,19 +81,19 @@ Edit task details or delete tasks as needed. Use the edit button to modify task 
 
 ##   FIRST PAGE 
 
-![First landing page](https://drive.google.com/uc?id=1Hwh0iNhEcgc4X8ZS6wYIATvXZfGgRUYL) {:width="400px" height="300px"}
+![First landing page](https://drive.google.com/uc?id=1Hwh0iNhEcgc4X8ZS6wYIATvXZfGgRUYL)
 
 
 
 ##  PRIORITY SELECTION  
 
-![priority selection while adding task](<img src="https://drive.google.com/uc?id=1zbZ0NY_0vBZmokbAdUX4Zk0Qi3JT_4" width="400" height="300">)
+![priority selection while adding task](https://drive.google.com/uc?id=1zbZ0NY_0vBZmokbAdUX4Zk0Qi3JT_4)
 
 
 ##  DATE_TIME SELECTION  
 
 
-![date-time selection ](https://drive.google.com/file/d/1rFbxUHO2d10RTj7Oba5T7974vex-0ZWV/view?usp=drive_link)
+![date-time selection ](https://drive.google.com/uc?id=1rFbxUHO2d10RTj7Oba5T7974vex)
 
 
 ##  ADDED TASKS PREVIEW  
