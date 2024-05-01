@@ -87,8 +87,7 @@ Edit task details or delete tasks as needed. Use the edit button to modify task 
 
 ##  PRIORITY SELECTION  
 
-
-![priority selection while adding task](https://drive.google.com/file/d/1zbZ0NY_0vBZmokbAdUX4Zk0Qi3JT_4-G/view?usp=drive_link)
+![priority selection while adding task](<img src="https://drive.google.com/uc?id=1zbZ0NY_0vBZmokbAdUX4Zk0Qi3JT_4" width="400" height="300">)
 
 
 ##  DATE_TIME SELECTION  
