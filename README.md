@@ -146,8 +146,8 @@ Edit task details or delete tasks as needed. Use the edit button to modify task 
 To get started with the To-Do List Web Application, simply clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/your-username/todo-list.git
-cd todo-list
+git clone https://github.com/vishalTondale/To-Do-List-Web-App.git
+cd To-Do-List-Web-App
 ```
 
 
@@ -219,7 +219,7 @@ This project has no external dependencies.
 
 ## Contributions
 
-Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please [open an issue](https://github.com/your-username/todo-list/issues) or submit a pull request.
+Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please [open an issue](https://github.com/vishalTondale/To-Do-List-Web-App/issues) or submit a pull request.
 
 
 ---------------------------------------------------------------------------
