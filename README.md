@@ -81,7 +81,7 @@ Edit task details or delete tasks as needed. Use the edit button to modify task 
 
 ##   FIRST PAGE 
 
-![First landing page](https://drive.google.com/file/d/1Hwh0iNhEcgc4X8ZS6wYIATvXZfGgRUYL/view?usp=drive_link){:width="400px" height="300px"}
+![First landing page](https://drive.google.com/uc?id=1Hwh0iNhEcgc4X8ZS6wYIATvXZfGgRUYL) {:width="400px" height="300px"}
 
 
 
