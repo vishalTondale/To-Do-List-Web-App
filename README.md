@@ -99,32 +99,32 @@ Edit task details or delete tasks as needed. Use the edit button to modify task 
 ##  ADDED TASKS PREVIEW  
 
 
-![preview task preview ](https://drive.google.com/file/d/1DSARZeji-lSgw3QClvxArcGQzevWb0XN/view?usp=drive_link)
+![preview task preview ](https://drive.google.com/uc?id=1DSARZeji-lSgw3QClvxArcGQzevWb0XN)
 
 
 ##  TASK COMPLETION STATUS 
 
 
-![task completion status option ](https://drive.google.com/file/d/1Tt-BclAT3LLE6gGTXKrsz1Nld5yte5pL/view?usp=drive_link)
+![task completion status option ](https://drive.google.com/uc?id=1Tt-BclAT3LLE6gGTXKrsz1Nld5yte5pL)
 
 
 ##  EDIT TASK PREVIEW
 
 
-![edit task option ](https://drive.google.com/file/d/1QFFzwNKM_eihQtqeYSupvkPSyh_wkyjh/view?usp=drive_link)
+![edit task option ](https://drive.google.com/uc?id=1QFFzwNKM_eihQtqeYSupvkPSyh_wkyjh)
 
 
 ##  DELETE TASK PREVIEW 
 
 
-![delete task option ](https://drive.google.com/file/d/1vraCS7DlL9ZqQrSSuR7yLX2UCeivouf2/view?usp=drive_link)
+![delete task option ](https://drive.google.com/uc?id=1vraCS7DlL9ZqQrSSuR7yLX2UCeivouf2)
 
 
 
 ##  SORTING PREVIEW 
 
 
-![task sorting option ](https://drive.google.com/file/d/1VxDLSnw9KW2YVM4AYfix_qt6hnT2W8NA/view?usp=drive_link)
+![task sorting option ](https://drive.google.com/uc?id=1VxDLSnw9KW2YVM4AYfix_qt6hnT2W8NA)
 
 
 
